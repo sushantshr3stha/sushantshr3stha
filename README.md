@@ -21,6 +21,20 @@
 - 🛠️ Turning ideas into projects and learning by building
 - 📫 Open to collaboration, project inquiries, or just saying hello
 
+## 🎓 Education
+
+<p align="center">
+  <a href="http://www.cosmoscollege.edu.np/">
+    <img src="assets/ccmt-logo.png" alt="Cosmos College of Management and Technology" width="120" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Cosmos College of Management and Technology</b><br>
+  Bachelor in Computer Engineering • Pokhara University<br>
+  Sitapaila, Nepal
+</p>
+
 ## 🧰 Tech Stack
 
 **Languages**

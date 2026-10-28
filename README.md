@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="http://www.cosmoscollege.edu.np/">
-    <img src="assets/ccmt-logo.png" alt="Cosmos College of Management and Technology" width="120" />
+    <img src="https://cosmoscollege.edu.np/_next/image?url=%2Fimg%2Flogo.jpg&w=640&q=75" alt="Cosmos College of Management and Technology" width="120" />
   </a>
 </p>
 
